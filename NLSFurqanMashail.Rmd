@@ -1,5 +1,5 @@
 ---
-title: "(05NLS) Assignment Instructions Template"
+title: "(05NLS)"
 output: html_document
 date: "Enter date here"
 author: "Enter your name here"
